@@ -1,7 +1,7 @@
 # Projeto Extremamente Aesthetic: Gatinha Veigar Ranzinzim
 
 ## 📒 Descrição
-Neste projeto, usei ferramentas de IA generativa para criar uma imagem da minha gatinha com a skin Veigar Ranzinzim do jogo League of Legends.
+Neste projeto, usei ferramentas de IA generativa para criar uma imagem da minha gatinha com a temática de maga.
 
 ## 🤖 Tecnologias Utilizadas
 - DALL-E / Stable Diffusion para geração de imagem
@@ -10,11 +10,11 @@ Neste projeto, usei ferramentas de IA generativa para criar uma imagem da minha 
 ## 🧐 Processo de Criação
 1. Tirei uma foto da minha gatinha.
 2. Usei DALL-E / Stable Diffusion para transformar a imagem da gatinha com a roupa de mago.
-3. 
-Editei manualmente a imagem usando Photoshop / GIMP para melhorar a qualidade e a estética.
+3. Editei manualmente a imagem usando Photoshop / GIMP para melhorar a qualidade e a estética.
+
 
 ## 🚀 Resultados
-Aqui está a imagem final da minha gatinha com a skin Veigar Ranzinzim.
+Aqui está a imagem final da minha gatinha com a skin Maga.
 
 (![Gatinha Maga](<712373_a black mixed with calico kitten with blue eyes, w_xl-1024-v1-0 (1).png>))
 
